@@ -1,0 +1,106 @@
+
+.container {
+	height:500px;
+}
+.back {
+	background: url('../images/bg.jpeg');
+	background-size: contain;
+	margin-top:15px;
+}
+.logo {
+	width:150px;
+	height:auto;
+	position: relative;
+	left: 105px;
+	top:20px;
+}
+.ft {
+	float:right;
+}
+.ft a {
+	color:white;
+	padding-right:10px;
+	float:right;	
+}
+.buttoms{
+	margin-left:36%;
+}
+.buttom1 a {
+background-color: #2E2EFE;
+color:white;
+}
+.buttom2 a {
+	background-color:#00FF40;
+	color:white;
+}
+h2 {
+	color:white;
+	text-align: center;
+	margin-top:50px;
+	padding:50px 330px;
+}
+.buttom {
+	margin-left:55px;
+}
+.second-section h4 {
+	margin-top:18%;
+
+}
+.second-section {
+text-align: center;
+}
+.people {
+	width:60%;
+	height:auto;
+}
+.people  {
+	margin-left:185px;
+	clear:both;
+}
+.jumbotron {
+	padding-top:748px;
+}
+.jb {
+	text-align: center;
+}
+.inscribete li {
+	right:650px;
+}
+.inscribete a {
+	background-color:blue;
+	text-decoration: none;
+}
+.vive {
+	text-align: center;
+	margin-top:68px;
+}
+.fin {
+	margin-left:200px;
+	list-style: none;
+}
+.contacto {
+	margin-bottom:10px;
+	font-weight:bold;
+}
+.desafio {
+	font-weight: bolder;
+}
+.fin2 {
+	list-style: none;
+}
+.suscribete {
+	margin-bottom:10px;
+	font-weight:;
+}
+.phono {
+	margin-bottom:20px;
+}
+footer {
+	background-color: black;
+	height:100px;
+}
+ footer h4 {
+ 	color:white;
+ 	padding-left:75px;
+ 	padding-top:40px;
+ }
